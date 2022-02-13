@@ -1,0 +1,66 @@
+const PermissionsList = [
+    {
+        title:"Packages",
+        id:"1"
+    },
+    {
+        title:"Dashboard",
+        id:"2"
+    },
+    {
+        title:"CRM",
+        id:"3"
+    },
+    {
+        title:"Product",
+        id:"4"
+    },
+    {
+        title:"Instructor",
+        id:"5"
+    },
+    {
+        title:"Bookings",
+        id:"6"
+    },
+    {
+        title:"Billing",
+        id:"7"
+    },
+    {
+        title:"Expenses",
+        id:"8"
+    },
+    {
+        title:"Reports",
+        id:"9"
+    },
+    {
+        title:"Billing",
+        id:"10"
+    },
+    {
+        title:"Holidays",
+        id:"11"
+    },
+    {
+        title:"Calender",
+        id:"12"
+    },
+    {
+        title:"Membership",
+        id:"13"
+    },
+    {
+        title:"Users",
+        id:"14"
+    },
+    {
+        title:"Gymprofile",
+        id:"15"
+    },
+
+]
+
+
+export default PermissionsList;
